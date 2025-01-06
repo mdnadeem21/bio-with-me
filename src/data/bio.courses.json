@@ -1,0 +1,53 @@
+{
+    "courses" : [
+    {
+        "id": 1,
+        "title": "Data Structures and Algorithms",
+        "description" : "This specialization is a mix of theory and practice: you will learn algorithmic techniques for solving various computational problems and will implement about 100 algorithmic coding problems in a programming language of your choice. No other online course in Algorithms even comes close to offering you a wealth of programming challenges that you may face at your next job interview. To prepare you, we have invested thousands of hours designing challenges as an alternative to multiple choice questions that you usually find in MOOCs. We believe in learning through problem solving and viewer participation. We use a challenge-based learning approach to enable you to see improvements in your performance as you progress through the specialization.",
+        "price": 49.99,
+        "instructor": "Tim Roughgarden",
+        "isFeatured": true,
+        "slug": "data-structures-algorithms"
+        
+    },
+    {
+        "id": 2,
+        "title": "Python for Everybody",
+        "description" : "This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python. The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “Python for Everybody”. Once a student completes this course, they will be ready to take more advanced programming courses. This course covers Python 3.",
+        "price": 29.99,
+        "instructor": "Charles Severance",
+        "isFeatured": true,
+        "slug": "python-for-everybody"
+    },
+    {
+        "id": 3,
+        "title": "Machine Learning",
+        "description" : "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.",
+        "price": 99.99,
+        "instructor": "Andrew Ng",
+        "isFeatured": true,
+        "slug": "machine-learning"
+
+    },
+    {
+        "id": 4,
+        "title": "Web Development",
+        "description" : "This course is designed to start you on a path toward future studies in web development and design, no matter how little experience or technical knowledge you currently have. The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business, entertainment or education. But have you ever wondered how these websites actually work? How are they built? How do browsers, computers, and mobile devices interact with the web? What skills are necessary to build a website? With almost 1 billion websites now on the internet, the answers to these questions could be your first step toward a better understanding of the internet and developing a new set of internet skills.",
+        "price": 39.99,
+        "instructor": "Colleen van Lent",
+        "isFeatured": true,
+        "slug": "web-development"
+
+    },
+    {
+        "id": 5,
+        "title": "Deep Learning",
+        "description" : "If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new superpower that will let you build AI systems that just weren't possible a few years ago. In this course, you will learn the foundations of deep learning. When you finish this class, you will: - Understand the major technology trends driving Deep Learning - Be able to build, train and apply fully connected deep neural networks - Know how to implement efficient (vectorized) neural networks - Understand the key parameters in a neural network's architecture This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions.",
+        "price": 79.99,
+        "instructor": "Andrew Ng",
+        "isFeatured": true,
+        "slug": "deep-learning"
+    }
+
+]
+}
